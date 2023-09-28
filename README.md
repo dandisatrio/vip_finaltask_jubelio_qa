@@ -4,11 +4,11 @@
 
 Clone the repository
 
-    git clone git@github.com:dandisatrio/laravel-example-app.git
+    git clone https://github.com/dandisatrio/vip_finaltask_jubelio_qa.git
 
 Switch to the repo folder
     
-    cd laravel-example-app
+    cd vip_finaltask_jubelio_qa
 
 Install python 3
     
